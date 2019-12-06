@@ -2,6 +2,9 @@
 A collection of font-front research in robotic reasoning
 
 ## Paper
+
+### Survey
+- [Purposive learning: Robot reasoning about the meanings of human activities](https://robotics.sciencemag.org/content/4/26/eaav1530/tab-pdf)
 ### Navigation
 - [Visual semantic navigation using scene priors](https://arxiv.org/pdf/1810.06543.pdf)
 
